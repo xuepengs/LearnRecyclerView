@@ -50,7 +50,7 @@ class MyAdapter extends RecyclerView.Adapter {
     public int getItemCount() {
         return data.length;
     }
-    public Celldata[] data =new Celldata[]{new Celldata("android开发","学习目标"),new Celldata("新闻","这个新闻真不错")};
+    public Celldata[] data =new Celldata[]{new Celldata("android开发","学习目标"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错"),new Celldata("新闻","这个新闻真不错")};
 
 //    private String[] data = new String[]{"hello", "world", "computer"};
     }
